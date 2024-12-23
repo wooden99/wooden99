@@ -53,9 +53,9 @@ export default function Homee() {
           <p>I&apos;m writing articles on Zenn.</p>
 
           <div className="mt-8 flex items-center">
-            <Link href="/" className="w-1/3 bg-white border-b-2 border-primary px-4 py-2 text-center hover:bg-gray-100 duration-200 rounded-t-lg outline-none focus-visible:bg-gray-100">Timeline</Link>
+            <Link href="/" className="w-1/3 bg-white border-b-2 px-4 py-2 text-center hover:bg-gray-100 duration-200 rounded-t-lg outline-none focus-visible:bg-gray-100">Timeline</Link>
             <Link href="/notes" className="w-1/3 bg-white border-b-2 px-4 py-2 text-center hover:bg-gray-100 outline-none focus-visible:bg-gray-100 rounded-t-lg duration-200">Notes</Link>
-            <Link href="/products" className="w-1/3 bg-white border-b-2 px-4 py-2 text-center hover:bg-gray-100 outline-none focus-visible:bg-gray-100 rounded-t-lg duration-200">Products</Link>
+            <Link href="/products" className="w-1/3 bg-white border-b-2 border-primary px-4 py-2 text-center hover:bg-gray-100 outline-none focus-visible:bg-gray-100 rounded-t-lg duration-200">Products</Link>
           </div>
         </div>
 
